@@ -23,4 +23,4 @@ We welcome contributions to Ecotech Synergy! Your involvement can help make a di
 ## Contact
 For any questions or collaboration inquiries, please feel free to reach out:
 - Email: habelbiljana@gmail.com
-- LinkedIn: linkedin.com/in/biljana-h-71586a18
+- LinkedIn: https://www.linkedin.com/in/biljana-h-71586a18
