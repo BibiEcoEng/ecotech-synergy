@@ -9,6 +9,6 @@ Examples of unacceptable behavior by participants include:
 - Public or private harassment
 - Publishing others' private information, such as physical or electronic addresses, without explicit permission
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect of managing this project. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at habelbiljana@gmail.com.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect of managing this project. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at bolicbiljana@gmail.com.
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
