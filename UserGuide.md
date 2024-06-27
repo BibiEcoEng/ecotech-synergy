@@ -18,4 +18,4 @@ While we're currently in the planning and development phase, here's what you can
 
 ## Getting Help
 
-For inquiries or to learn more about our future plans, please contact us at [habelbiljana@gmail.com).
+For inquiries or to learn more about our future plans, please contact us at [bolicbiljana@gmail.com).
